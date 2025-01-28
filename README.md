@@ -1,6 +1,8 @@
 # bottle-dataset-analysis
 Dataset analysis using python, matplotlib, seaborn and sklearn, pandas.
 
+Dataset:
+
 1. Download the dataset, place it in the data directory in your project folder. Then read the data.
 2. Visualize the data.
 3. Generate a linear fit to the data. Plot it.
